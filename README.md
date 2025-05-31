@@ -1,6 +1,19 @@
 # curriculum
 各种课程材料，包括得到，网上流行材料，跟其他项目不好放的资料，都在这里面，等等等，持续更新中
 
+### 郎咸平世界经济学36集 
+
+https://pan.quark.cn/s/9146a3fe87cb
+
+### 《每天听本书》2025年5月合集，高效获取知识的音频书精华打包
+
+https://pan.quark.cn/s/2d0d9aef13bb
+
+### 网易云精选付费课程【93.6GB】 
+
+https://pan.quark.cn/s/a2ad185608b0
+
+
 ### 「527页动态高端PPT模板」
 链接：https://pan.quark.cn/s/506ace53dca3
 
