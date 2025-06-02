@@ -1,6 +1,18 @@
 # curriculum
 各种课程材料，包括得到，网上流行材料，跟其他项目不好放的资料，都在这里面，等等等，持续更新中
 
+### 「毛戈平年度化妆指导130节」
+
+链接：https://pan.quark.cn/s/fa8b51d01e2b
+
+### 「财务通识二十讲（李国平）」
+
+链接：https://pan.quark.cn/s/446da0baead2
+
+### 【喜马拉雅付费音频课】 老友记」
+
+链接：https://pan.quark.cn/s/02d0c033e967
+
 ### 郎咸平世界经济学36集 
 
 https://pan.quark.cn/s/9146a3fe87cb
