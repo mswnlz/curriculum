@@ -1,5 +1,6 @@
 # curriculum
 各种课程材料，包括得到，网上流行材料，跟其他项目不好放的资料，都在这里面，等等等，持续更新中
+https://openaitx.com/OpenAiTx/OpenAiTx
 
 ### 「毛戈平年度化妆指导130节」
 
