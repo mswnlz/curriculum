@@ -1,8 +1,10 @@
 # curriculum
 
-
-
 各种课程材料，包括得到，网上流行材料，跟其他项目不好放的资料，都在这里面，等等等，持续更新中
+
+
+[English](https://openaitx.github.io/view.html?user=mswnlz&project=curriculum&lang=en) | [简体中文](https://openaitx.github.io/view.html?user=mswnlz&project=curriculum&lang=zh-CN) | [繁體中文](https://openaitx.github.io/view.html?user=mswnlz&project=curriculum&lang=zh-TW) | [日本語](https://openaitx.github.io/view.html?user=mswnlz&project=curriculum&lang=ja) | [한국어](https://openaitx.github.io/view.html?user=mswnlz&project=curriculum&lang=ko) | [हिन्दी](https://openaitx.github.io/view.html?user=mswnlz&project=curriculum&lang=hi) | [ไทย](https://openaitx.github.io/view.html?user=mswnlz&project=curriculum&lang=th) | [Français](https://openaitx.github.io/view.html?user=mswnlz&project=curriculum&lang=fr) | [Deutsch](https://openaitx.github.io/view.html?user=mswnlz&project=curriculum&lang=de) | [Español](https://openaitx.github.io/view.html?user=mswnlz&project=curriculum&lang=es) | [Italiano](https://openaitx.github.io/view.html?user=mswnlz&project=curriculum&lang=it) | [Русский](https://openaitx.github.io/view.html?user=mswnlz&project=curriculum&lang=ru) | [Português](https://openaitx.github.io/view.html?user=mswnlz&project=curriculum&lang=pt) | [Nederlands](https://openaitx.github.io/view.html?user=mswnlz&project=curriculum&lang=nl) | [Polski](https://openaitx.github.io/view.html?user=mswnlz&project=curriculum&lang=pl) | [العربية](https://openaitx.github.io/view.html?user=mswnlz&project=curriculum&lang=ar) | [فارسی](https://openaitx.github.io/view.html?user=mswnlz&project=curriculum&lang=fa) | [Türkçe](https://openaitx.github.io/view.html?user=mswnlz&project=curriculum&lang=tr) | [Tiếng Việt](https://openaitx.github.io/view.html?user=mswnlz&project=curriculum&lang=vi) | [Bahasa Indonesia](https://openaitx.github.io/view.html?user=mswnlz&project=curriculum&lang=id)
+
 
 
 ### 「毛戈平年度化妆指导130节」
